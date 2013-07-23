@@ -1,0 +1,32 @@
+{
+  "name": "roomba",
+  "version": "0.0.1",
+  "description": "Roomba command and control",
+  "main": "roomba.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mharsch/node-roomba.git"
+  },
+  "keywords": [
+    "roomba",
+    "sci",
+    "roi",
+    "irobot",
+    "osmo",
+    "robot"
+  ],
+  "dependencies": {
+    "s2serial": ">=0.1.1"
+  },
+  "devDependencies": {
+    "nodeunit": ">=0.7.4"
+  },
+  "author": "Mike Harsch (mike@harschsystems.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mharsch/node-roomba/issues"
+  }
+}
