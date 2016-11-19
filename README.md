@@ -6,8 +6,8 @@ Control your Roomba robot using it's onboard serial interface
 
 You must have a serial connection to Roomba's serial interface (exposed via 
 the mini-din connector at 5v TTL signal levels).  The Roomba speaks a protocol 
-called ROI described 
-[here](http://www.irobot.com/images/consumer/hacker/Roomba_SCI_Spec_Manual.pdf).
+called Create Open Interface (formerly ROI) described 
+[here](https://www.irobot.com/filelibrary/pdfs/hrd/create/Create%20Open%20Interface_v2.pdf).
 
 
 ##Example:
